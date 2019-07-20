@@ -7,3 +7,6 @@ y también de su obra de maestro, claro está.
 Esto es un cambio
 
 Esto es un cambio en master-1
+Esto es un cambio 1 de hotfix 
+
+Esto es un cambio 2 en gotfix
