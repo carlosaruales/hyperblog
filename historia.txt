@@ -11,4 +11,6 @@ Esto es un cambio 1 de hotfix
 
 Esto es un cambio 2 en gotfix
 
-Ahora esto es otro cambio que tengo en master pero no quiero perder
+Ahora esto es otro cambio que tengo en master pero no quiero perder.
+
+Este es el ejemplo para cherry pick
