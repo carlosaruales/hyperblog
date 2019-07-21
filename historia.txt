@@ -14,3 +14,8 @@ Esto es un cambio 2 en gotfix
 Ahora esto es otro cambio que tengo en master pero no quiero perder.
 
 Este es el ejemplo para cherry pick
+Este es el ejemplo para cherry pick
+
+Incluye ejemplos en windows, linux y mac
+
+Disponible para todas las edadades
